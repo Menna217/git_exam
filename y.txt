@@ -1,4 +1,18 @@
 youu
 could
+<<<<<<< HEAD
 busy 
 npn
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+test
+=======
+busy
+>>>>>>> mood
+=======
+busy 
+npn
+>>>>>>> mood
+
+>>>>>>> cool

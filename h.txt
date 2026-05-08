@@ -3,7 +3,12 @@ why
 <<<<<<< HEAD
 saw
 see
+<<<<<<< HEAD
 =======
 see
 are
+>>>>>>> cool
+=======
+are
+moon
 >>>>>>> cool

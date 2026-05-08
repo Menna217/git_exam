@@ -1,4 +1,9 @@
 hoo
 why
+<<<<<<< HEAD
+saw
+see
+=======
 see
 are
+>>>>>>> cool
